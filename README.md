@@ -12,7 +12,7 @@
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-deepskyblue" />
   <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-deepskyblue" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-deepskyblue" />
-  <img alt="SQL" src="https://img.shields.io/badge/PyTorch-forrestgreen" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-deepgreen" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
