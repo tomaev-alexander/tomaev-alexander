@@ -11,7 +11,7 @@
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-deepskyblue" />
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-deepskyblue" />
   <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-deepskyblue" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-deepskyblue" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
