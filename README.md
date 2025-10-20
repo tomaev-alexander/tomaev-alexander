@@ -4,7 +4,7 @@
 <p> </br> Меня зовут Александр, я data scientist и экономист из <img src="https://cdn-icons-png.flaticon.com/128/197/197408.png" width="13"/> <b>России</b>, открытый для сотрудничества  </p>
 <h3>Инструменты, которые я использую</h3> 
 </p>
-  <img alt="React" src="https://img.shields.io/badge/Python-green" />
+  <img alt="React" src="https://img.shields.io/badge/Python-blue" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
