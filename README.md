@@ -17,7 +17,7 @@
   <img alt="Airflow" src="https://img.shields.io/badge/Airflow-lightgrey" />
   <img alt="Stata" src="https://img.shields.io/badge/Stata-white" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-white" />
-  <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-white" />
+  <img alt="PowerPoint" src="https://img.shields.io/badge/PPT-white" />
   <img alt="LaTex" src="https://img.shields.io/badge/LaTex-white" />  
 </div>
 </p>
