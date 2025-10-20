@@ -1,7 +1,8 @@
 <h1>Добро пожаловать! </h1>
 <p> </br> Меня зовут Александр, я data scientist и экономист из <img src="https://cdn-icons-png.flaticon.com/128/197/197408.png" width="13"/> <b>России</b>, открытый для сотрудничества  </p>
-<h3>Инструменты, которые я использую:</h3> 
+<h3>Среди используемых мной инструментов:</h3> 
 </p>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img alt="React" src="https://img.shields.io/badge/Python-midnightblue" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-deepskyblue" />
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-deepskyblue" />
@@ -15,5 +16,6 @@
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-orange" />
   <img alt="Airflow" src="https://img.shields.io/badge/Airflow-lightgrey" />
   <img alt="Stata" src="https://img.shields.io/badge/Stata-white" />
+</div>
 </p>
 <h3>Open source projects</h3>
