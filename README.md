@@ -16,6 +16,9 @@
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-orange" />
   <img alt="Airflow" src="https://img.shields.io/badge/Airflow-lightgrey" />
   <img alt="Stata" src="https://img.shields.io/badge/Stata-white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-white" />
+  <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-white" />
+  <img alt="LaTex" src="https://img.shields.io/badge/LaTex-white" />  
 </div>
 </p>
 <h3>Open source projects</h3>
