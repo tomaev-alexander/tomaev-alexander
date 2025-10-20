@@ -7,7 +7,7 @@
   <img alt="React" src="https://img.shields.io/badge/Python-blue" />
   <img alt="Scikit" src="https://img.shields.io/badge/Scikit--learn-deepskyblue" /> 
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-deepskyblue" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-deepskyblue" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
