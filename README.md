@@ -8,9 +8,9 @@
   <img alt="Scikit" src="https://img.shields.io/badge/Scikit--learn-deepskyblue" /> 
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-deepskyblue" />
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-deepskyblue" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-deepskyblue" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-deepskyblue" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-deepskyblue" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
