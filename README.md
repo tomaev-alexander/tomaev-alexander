@@ -23,13 +23,11 @@
 </div>
 </p>
 
-```
-
+<!-- 
 <p align="center">
  <img width="600" src="animation/snake.svg" alt="snake"/>
 </p>
-
-```
+-->
 
 
 
