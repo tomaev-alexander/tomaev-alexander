@@ -29,7 +29,9 @@
 </p>
 -->
 
-
+<p align="center">
+  <img src="picture/Pp.jpeg" width="100%" alt="Мое фото">
+</p>
 
 
 <h3>Open source projects</h3>
