@@ -27,8 +27,26 @@
  <img width="600" src="animation/snake.svg" alt="snake"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaev-alexander&layout=compact&hide_border=true" alt="languages" />
-</p>
+<!-- Анимация звездочек -->
+<div style="position: relative; height: 100px; overflow: hidden;">
+  <div style="
+    position: absolute; 
+    top: 0; 
+    width: 2px; 
+    height: 2px; 
+    background: #f1c40f; 
+    border-radius: 50%; 
+    animation: moveStar 3s linear infinite; 
+    opacity: 0.8;
+    left: 50%;">
+  </div>
+</div>
+
+<style>
+@keyframes moveStar {
+  0% { transform: translateY(0) translateX(0); opacity: 1; }
+  100% { transform: translateY(100px) translateX(50px); opacity: 0; }
+}
+</style>
 
 <h3>Open source projects</h3>
