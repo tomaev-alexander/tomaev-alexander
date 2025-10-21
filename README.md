@@ -42,11 +42,6 @@
   </div>
 </div>
 
-<style>
-@keyframes moveStar {
-  0% { transform: translateY(0) translateX(0); opacity: 1; }
-  100% { transform: translateY(100px) translateX(50px); opacity: 0; }
-}
-</style>
+
 
 <h3>Open source projects</h3>
