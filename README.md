@@ -23,12 +23,8 @@
 </div>
 </p>
 
-###
-
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/ТВОЙ_USERNAME/ТВОЙ_USERNAME/output/github-snake.svg" alt="snake" />
 </p>
- 
-###
 
 <h3>Open source projects</h3>
