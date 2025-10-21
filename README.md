@@ -27,6 +27,8 @@
  <img width="600" src="animation/snake.svg" alt="snake"/>
 </p>
 
-![Wave](https://github.com/username/username/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaev-alexander&layout=compact&hide_border=true" alt="languages" />
+</p>
 
 <h3>Open source projects</h3>
