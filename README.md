@@ -27,4 +27,6 @@
  <img width="600" src="animation/snake.svg" alt="snake"/>
 </p>
 
+![Wave](https://github.com/username/username/blob/output/github-contribution-grid-snake.gif)
+
 <h3>Open source projects</h3>
