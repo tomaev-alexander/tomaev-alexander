@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomaev-alexander/tomaev-alexander/output/github-snake.svg" alt="snake" />
+ <img width="600" src="animation/snake.svg" alt="snake"/>
 </p>
 
 <h3>Open source projects</h3>
