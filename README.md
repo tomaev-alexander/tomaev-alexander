@@ -27,20 +27,8 @@
  <img width="600" src="animation/snake.svg" alt="snake"/>
 </p>
 
-<!-- Анимация звездочек -->
-<div style="position: relative; height: 100px; overflow: hidden;">
-  <div style="
-    position: absolute; 
-    top: 0; 
-    width: 2px; 
-    height: 2px; 
-    background: #f1c40f; 
-    border-radius: 50%; 
-    animation: moveStar 3s linear infinite; 
-    opacity: 0.8;
-    left: 50%;">
-  </div>
-</div>
+
+<img src="https://media.gettyimages.com/id/1424238508/vector/motion-line-dash-blue-background.jpg?s=1024x1024&w=gi&k=20&c=Yp6rtjWisDRsgw2YmU97c4p_HWJs07MiF1WExPb8RXY=" alt="Пейзаж" width="100% ; clip-path: inset(0 0 50% 0);">
 
 
 
