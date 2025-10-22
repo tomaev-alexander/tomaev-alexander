@@ -11,6 +11,7 @@
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-deepskyblue" />
   <img alt="Scikit" src="https://img.shields.io/badge/Scikit--learn-deepskyblue" /> 
   <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-deepskyblue" />
+  <img alt="CatBoost" src="https://img.shields.io/badge/CatBoost-deepskyblue" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-deepskyblue" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-deepskyblue" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-mediumorchid" />
