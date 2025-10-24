@@ -33,7 +33,13 @@
 </p>
 -->
 
+<!-- 
 <p align="center">
   <img src="picture/Pp.jpeg" width="100%" alt="Мое фото">
+</p>
+-->
+
+<p align="center">
+  <img src="picture/Pp.jpeg" width="100%" alt="Мое фото" style="object-fit: cover; height: 200px; object-position: top;">
 </p>
 
