@@ -34,6 +34,6 @@
 -->
 
 <p align="center">
-  <img src="picture/Pp.jpeg" width="100%" alt="Мое фото">
+  <img src="picture/Ppp.jpeg" width="100%" alt="Мое фото">
 </p>
 
