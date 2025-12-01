@@ -1,7 +1,7 @@
-<h1>Добро пожаловать! </h1>
-<h3> Меня зовут Александр, я <b>Data Scientist</b> / <b>ML инженер</b> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="13"/>.   </h3>
-<p> До погружения в мир IT мой карьерный путь был связан с экономическими исследованиями: я искал причинно-следственные связи в данных по международной торговле, грузовым перевозкам, миграции, продаже авиабилетов и так далее. Это позволило выработать профессиональную интуицию, которая теперь помогает мне при решении различных задач с применением DS.   </p>
-<h3>Среди используемых мной инструментов:</h3> 
+<h1>Welcome!</h1> 
+<h3>My name is Alexander, and I am a <b>Data Scientist</b> / <b>ML Engineer</b> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="13"/></h3> 
+<p>Before diving into the world of IT, my career path was related to economic research: I looked for causal relationships in data on international trade, freight transportation, migration, airline ticket sales, and so on. This allowed me to develop professional intuition, which now helps me in solving various tasks using DS.</p> 
+<h3>Among the tools I use:</h3>
 </p>
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img alt="React" src="https://img.shields.io/badge/Python-midnightblue" />
@@ -25,7 +25,7 @@
 </div>
 </p>
 
-<p> Помимо классического ML мой опыт включает и работу с нейронными сетями. Я создавал векторные представления изображений, решал задачи их классификации, а также детекции объектов на них. Кроме того, мне знакомы задачи векторного представления и классификации текстов. Мной применялась в том числе архитектура Трансформер. </p>
+<p> Beyond classical ML, I have experience with DL (neural networks). This includes creating image embeddings and performing object detection. I also work with text vectorization and classification. I have applied Transformer architectures among others. </p>
 
 <!-- 
 <p align="center">
