@@ -39,14 +39,14 @@
 
 <p align="center"> <strong>Among the books I've read:</strong> </p>
 
-Python  
-- Lutz M.: Python Pocket Reference  
-- Lubanovic B.: Introducing Python: Modern Computing in Simple Packages  
-- Aditya Y. Bhargava: Grokking Algorithms  
-- Swaroop C.H.: A Byte of Python  
-
 Machine Learning  
 - Albon C.: Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning  
 - Müller A.C., Guido S.: Introduction to Machine Learning with Python: A Guide for Data Scientists  
 - Васильев Ю.: Python для Data Science  
 - Serrano L.: Grokking Machine Learning
+
+Python  
+- Lutz M.: Python Pocket Reference  
+- Lubanovic B.: Introducing Python: Modern Computing in Simple Packages  
+- Aditya Y. Bhargava: Grokking Algorithms  
+- Swaroop C.H.: A Byte of Python  
