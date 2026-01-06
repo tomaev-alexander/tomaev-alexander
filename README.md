@@ -37,7 +37,7 @@
   <img src="picture/Ppp.jpeg" width="100%" alt="Мое фото">
 </p>
 
-<p align="center">Among the books I've read:</p>
+<p align="center"> <strong>Among the books I've read:</strong> </p>
 
 Python  
 - Lutz M.: Python Pocket Reference  
