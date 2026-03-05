@@ -17,8 +17,8 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-mediumorchid" />
   <img alt="Git" src="https://img.shields.io/badge/Git-limegreen" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-orange" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-4B3B8F" />
   <img alt="Airflow" src="https://img.shields.io/badge/Airflow-lightgrey" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-mediumorchid" />
   <img alt="Stata" src="https://img.shields.io/badge/Stata-white" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-white" />
   <img alt="PowerPoint" src="https://img.shields.io/badge/PPT-white" />
